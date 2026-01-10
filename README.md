@@ -36,7 +36,7 @@
 
 🌍 **Multi-Language Support**
 
-- Available in **7 languages**: English, French, German, Spanish, Italian, Chinese, and Turkish
+- Available in **15 languages**: English, French, German, Spanish, Italian, Chinese ...
 - Fully translated menus and interface
 
 🛡️ **Privacy First**
