@@ -2,7 +2,7 @@
 
 # 🎬 V-Raykally
 
-### The Modern Render Manager for V-Ray Standalone
+### The Modern Render Manager for V-Ray
 
 [![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
 [![License](https://img.shields.io/badge/license-Free%20for%20All%20Use-green.svg)](LICENSE)
