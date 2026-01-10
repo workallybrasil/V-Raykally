@@ -105,6 +105,4 @@ The software is distributed under a proprietary license.
 
 **V-Raykally** is developed with ❤️ by **Workally** in São Paulo, Brazil.
 
-Made with ❤️ for the V-Ray community
-
 </div>
