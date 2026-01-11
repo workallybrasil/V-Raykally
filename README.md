@@ -13,7 +13,6 @@
 
 **Streamline your V-Ray rendering workflow with an intuitive, modern interface.**
 
-[Download](#-download) • [Features](#-features) • [Privacy](#-privacy) • [Website](https://v-raykally.online)
 
 </div>
 
