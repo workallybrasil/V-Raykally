@@ -1,14 +1,13 @@
 <div align="center">
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/ebab96f4-3dcf-4aa3-b7b4-41539c59a9ed" />
 
-
 # V-Raykally
 
 ### Free, local render manager for V-Ray Standalone
 
 **Fast queue control. Clear status. Zero cloud.**
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
+[![Version](https://img.shields.io/badge/version-1.3.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
 [![License](https://img.shields.io/badge/license-Free%20for%20All%20Use-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg)](#-download)
 [![Languages](https://img.shields.io/badge/languages-15-orange.svg)](#-language-support)
@@ -45,10 +44,9 @@
 
 | Platform    | Architecture                | Download                                                                                                                       |
 | ----------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **macOS**   | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.2.0-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.2.0-arm64.dmg) |
-| **macOS**   | Intel (x64)                 | [V-Raykally-1.2.0-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.2.0-x64.dmg)     |
-| **Windows** | x64                         | 🚧 Coming soon (NSIS Installer)                                                                                                |
-| **Windows** | ARM64                       | 🚧 Coming soon (Microsoft Store)                                                                                               |
+| **macOS**   | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.3.1-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.3.1-arm64.dmg) |
+| **macOS**   | Intel (x64)                 | [V-Raykally-1.3.1-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.3.1-x64.dmg)     |
+| **Windows** | x64 / ARM64                 | [Microsoft Store](https://apps.microsoft.com/detail/9P6T4BVX32J6)                                                              |
 
 ---
 
@@ -56,19 +54,19 @@
 
 Available in **15 languages**:
 
-| 🇬🇧 English | 🇫🇷 French | 🇩🇪 German | 🇪🇸 Spanish | 🇮🇹 Italian |
-| ---------- | --------- | --------- | ---------- | ---------- |
-| 🇵🇹 Portuguese | 🇨🇳 Chinese | 🇯🇵 Japanese | 🇰🇷 Korean | 🇸🇦 Arabic |
-| 🇮🇳 Hindi | 🇷🇺 Russian | 🇮🇩 Indonesian | 🇹🇷 Turkish | 🇵🇱 Polish |
+| 🇬🇧 English    | 🇫🇷 French  | 🇩🇪 German     | 🇪🇸 Spanish | 🇮🇹 Italian |
+| ------------- | ---------- | ------------- | ---------- | ---------- |
+| 🇵🇹 Portuguese | 🇨🇳 Chinese | 🇯🇵 Japanese   | 🇰🇷 Korean  | 🇸🇦 Arabic  |
+| 🇮🇳 Hindi      | 🇷🇺 Russian | 🇮🇩 Indonesian | 🇹🇷 Turkish | 🇵🇱 Polish  |
 
 ---
 
-## 🔄 What's New in v1.2.0
+## 🔄 What's New in v1.3.1
 
-- **Simple / Pro settings modes**
-- **Drag-and-drop job ordering**
-- **Improved job control while rendering**
-- **Better stability and sync across UI/worker/DB**
+- **Platform-Aware Defaults**: Dynamic V-Ray path placeholder that adapts to Windows/Mac
+- **Improved Windows Support**: Better default configuration paths for Windows users
+- **Asset Cleanup**: Removed duplicate license assets to optimize package size
+- **Platform Detection Fix**: Fixed regression in platform detection hook
 
 See the full [CHANGELOG](CHANGELOG.md) for details.
 
@@ -98,7 +96,7 @@ Read our full [Privacy Policy](https://www.v-raykally.online/privacy).
 
 <div align="center">
 
-**V-Raykally** is developed with ❤️ by **Workally** in Sao Paulo, Brazil.
+**V-Raykally** is developed with ❤️ by **Adrien LEJEUNE** & **Workally** in São Paulo, Brazil.
 
 Made with ❤️ for the V-Ray community.
 
