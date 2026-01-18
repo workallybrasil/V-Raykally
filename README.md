@@ -7,7 +7,7 @@
 
 **Fast queue control. Clear status. Zero cloud.**
 
-[![Version](https://img.shields.io/badge/version-1.3.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
+[![Version](https://img.shields.io/badge/version-1.3.2-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
 [![License](https://img.shields.io/badge/license-Free%20for%20All%20Use-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg)](#-download)
 [![Languages](https://img.shields.io/badge/languages-15-orange.svg)](#-language-support)
@@ -61,7 +61,7 @@ Available in **15 languages**:
 
 ---
 
-## 🔄 What's New in v1.3.1
+## 🔄 What's New in v1.3.2
 
 - **Platform-Aware Defaults**: Dynamic V-Ray path placeholder that adapts to Windows/Mac
 - **Improved Windows Support**: Better default configuration paths for Windows users
