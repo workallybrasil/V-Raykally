@@ -13,22 +13,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.4.1] - 2026-06-09
 
-> 🔧 **Public Documentation & Polish Release**
+> 🚀 **Local AI, Store Delivery & Workflow Polish**
 
 ### ✨ Added
 
-- **Improved V-Ray Guidance** — Clearer setup wording for V-Ray Standalone users.
-- **Public Release Notes** — Updated public-facing release text for the current 1.4.1 version.
+- **Local AI Diagnostics** — On-device assistance for understanding render failures without relying on a cloud AI service.
+- **Microsoft Store Delivery** — Public Windows distribution through the Microsoft Store.
+- **Store-Ready Delivery Foundation** — Better packaged resources for local rendering, diagnostics, languages, licenses, and notices.
+- **Expanded Public Guidance** — Clearer release, download, privacy, and V-Ray setup messaging.
 
 ### 🔄 Changed
 
-- **Download References** — Updated macOS download names and links to version 1.4.1.
-- **Cross-Platform Messaging** — Refreshed Windows and macOS support wording.
+- **V-Ray Setup Experience** — Improved discovery and validation language for V-Ray Standalone paths.
+- **Queue Experience** — Refined public messaging around live status, retry workflows, and drag-and-drop priority.
+- **macOS Distribution** — Updated public downloads for Apple Silicon and Intel DMG packages.
+- **Windows Positioning** — Clarified the Microsoft Store path for Windows users.
 - **Author Naming** — Normalized public author credits to Adrien Lejeune.
 
 ### 🐛 Fixed
 
-- **Documentation Versioning** — Replaced outdated 1.3.1 references in the public README.
+- **Documentation Versioning** — Replaced outdated 1.3.1 references across the public README.
+- **Release Presentation** — Reworked the GitHub home page into a clearer product landing page.
 - **License Clarity** — Clarified that Chaos V-Ray and Chaos licenses are separate requirements.
 
 ---
