@@ -1,5 +1,5 @@
 V-Raykally - End User License Agreement (EULA)
-Copyright (c) 2025-2026 Workally - Adrien LEJEUNE
+Copyright (c) 2025-2026 Workally - Adrien Lejeune
 
 Thank you for choosing V-Raykally!
 
@@ -18,14 +18,19 @@ This software is freeware provided "as-is". By downloading, installing, or using
    • Rent, lease, lend, sell, or sublicense the software itself.
    • Redistribute the software on public repositories or other platforms without prior written consent (internal distribution within a company is allowed).
 
-3. FEEDBACK AND SUGGESTIONS
+3. EXTERNAL RENDERER AND REQUIRED LICENSES
+   V-Raykally is a queue and control tool for a local Chaos V-Ray / V-Ray Standalone installation.
+   V-Raykally does not include, sell, sublicense, or provide V-Ray, Chaos assets, the Chaos License Server, or any Chaos license.
+   You are responsible for having a valid Chaos/V-Ray installation and for complying with the applicable Chaos terms.
+
+4. FEEDBACK AND SUGGESTIONS
    We welcome your feedback! You are free to suggest improvements or report issues. We value your input to make V-Raykally better for everyone.
 
-4. DISCLAIMER OF WARRANTY
+5. DISCLAIMER OF WARRANTY
    This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-5. LIMITATION OF LIABILITY
+6. LIMITATION OF LIABILITY
    In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
-V-Raykally is developed by Workally - Adrien LEJEUNE in São Paulo, Brazil.
+V-Raykally is developed by Workally - Adrien Lejeune in São Paulo, Brazil.
 Websites: https://v-raykally.online | https://workally.com.br

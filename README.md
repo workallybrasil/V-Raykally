@@ -7,7 +7,7 @@
 
 **Fast queue control. Clear status. Zero cloud.**
 
-[![Version](https://img.shields.io/badge/version-1.3.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
+[![Version](https://img.shields.io/badge/version-1.4.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
 [![License](https://img.shields.io/badge/license-Free%20for%20All%20Use-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg)](#-download)
 [![Languages](https://img.shields.io/badge/languages-15-orange.svg)](#-language-support)
@@ -44,8 +44,8 @@
 
 | Platform    | Architecture                | Download                                                                                                                       |
 | ----------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **macOS**   | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.3.1-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.3.1-arm64.dmg) |
-| **macOS**   | Intel (x64)                 | [V-Raykally-1.3.1-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.3.1-x64.dmg)     |
+| **macOS**   | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.4.1-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.4.1-arm64.dmg) |
+| **macOS**   | Intel (x64)                 | [V-Raykally-1.4.1-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.4.1-x64.dmg)     |
 | **Windows** | x64 / ARM64                 | [Microsoft Store](https://apps.microsoft.com/detail/9P6T4BVX32J6)                                                              |
 
 ---
@@ -61,12 +61,13 @@ Available in **15 languages**:
 
 ---
 
-## 🔄 What's New in v1.3.1
+## 🔄 What's New in v1.4.1
 
-- **Platform-Aware Defaults**: Dynamic V-Ray path placeholder that adapts to Windows/Mac
-- **Improved Windows Support**: Better default configuration paths for Windows users
-- **Asset Cleanup**: Removed duplicate license assets to optimize package size
-- **Platform Detection Fix**: Fixed regression in platform detection hook
+- **Improved V-Ray Setup**: Better detection and configuration guidance for V-Ray Standalone
+- **Cross-Platform Polish**: Refined support for macOS and Windows workflows
+- **Stability Updates**: Smoother queue handling and more reliable status feedback
+- **UI Refinements**: Cleaner visual details across the dashboard and settings
+- **15-Language Experience**: Continued support for the full multilingual interface
 
 See the full [CHANGELOG](CHANGELOG.md) for details.
 
@@ -96,10 +97,10 @@ Read our full [Privacy Policy](https://www.v-raykally.online/privacy).
 
 <div align="center">
 
-**V-Raykally** is developed with ❤️ by **Adrien LEJEUNE** & **Workally** in São Paulo, Brazil.
+**V-Raykally** is developed with ❤️ by **Adrien Lejeune** & **Workally** in São Paulo, Brazil.
 
 Made with ❤️ for the V-Ray community.
 
-© 2025-2026 **Workally - Adrien LEJEUNE**. All rights reserved.
+© 2025-2026 **Workally - Adrien Lejeune**. All rights reserved.
 
 </div>

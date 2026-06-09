@@ -11,6 +11,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.1] - 2026-06-09
+
+> 🔧 **Public Documentation & Polish Release**
+
+### ✨ Added
+
+- **Improved V-Ray Guidance** — Clearer setup wording for V-Ray Standalone users.
+- **Public Release Notes** — Updated public-facing release text for the current 1.4.1 version.
+
+### 🔄 Changed
+
+- **Download References** — Updated macOS download names and links to version 1.4.1.
+- **Cross-Platform Messaging** — Refreshed Windows and macOS support wording.
+- **Author Naming** — Normalized public author credits to Adrien Lejeune.
+
+### 🐛 Fixed
+
+- **Documentation Versioning** — Replaced outdated 1.3.1 references in the public README.
+- **License Clarity** — Clarified that Chaos V-Ray and Chaos licenses are separate requirements.
+
+---
+
 ## [1.3.1] - 2026-01-17
 
 > 🔧 **Stability & Polish Release**
