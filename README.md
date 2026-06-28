@@ -55,7 +55,7 @@ paths, outputs, and render decisions on your own machine.
     </td>
     <td width="33%">
       <h3>Store-Ready Delivery</h3>
-      <p>Microsoft Store distribution for Windows, plus notarized macOS packages for Apple Silicon and Intel.</p>
+      <p>Microsoft Store distribution for Windows, plus Developer ID-signed macOS packages for Apple Silicon and Intel.</p>
     </td>
     <td width="33%">
       <h3>15 Languages</h3>
@@ -82,7 +82,7 @@ paths, outputs, and render decisions on your own machine.
 ## What's New In 1.4.2
 
 - **macOS 1.4.2 packages** for Apple Silicon and Intel.
-- **Notarized DMG distribution** for both macOS architectures.
+- **Developer ID-signed DMG distribution** for both macOS architectures.
 - **Updated public download links** so macOS users receive the current 1.4.2 build.
 - **Same local-first V-Ray workflow** with scenes, paths, logs, outputs, and render decisions kept on the user's machine.
 

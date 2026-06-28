@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Verification
 
-- Both DMG files are signed and notarized for macOS.
+- Both DMG files are Developer ID signed.
 - Both embedded `.app` bundles report version 1.4.2.
 - `codesign --deep --strict` passes for both macOS builds.
 
