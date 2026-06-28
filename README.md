@@ -7,13 +7,13 @@
 
 **Queue scenes. Track progress. Diagnose failures. Keep rendering local.**
 
-[![Version](https://img.shields.io/badge/version-1.4.1-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
+[![Version](https://img.shields.io/badge/version-1.4.2-blue.svg)](https://github.com/workallybrasil/V-Raykally/releases)
 [![License](https://img.shields.io/badge/license-Freeware-green.svg)](LICENSE)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-black.svg)](#download)
 [![Windows](https://img.shields.io/badge/Windows-Microsoft%20Store-0078D4.svg)](https://apps.microsoft.com/detail/9P6T4BVX32J6)
 [![Languages](https://img.shields.io/badge/languages-15-orange.svg)](#languages)
 
-[Download](#download) · [What's New](#whats-new-in-141) · [Workflow](#workflow) · [Privacy](#privacy) · [Website](https://www.v-raykally.online)
+[Download](#download) · [What's New](#whats-new-in-142) · [Workflow](#workflow) · [Privacy](#privacy) · [Website](https://www.v-raykally.online)
 
 <br />
 
@@ -55,7 +55,7 @@ paths, outputs, and render decisions on your own machine.
     </td>
     <td width="33%">
       <h3>Store-Ready Delivery</h3>
-      <p>Microsoft Store distribution for Windows, plus signed and notarized macOS packages for Apple Silicon and Intel.</p>
+      <p>Microsoft Store distribution for Windows, plus Developer ID-signed macOS packages for Apple Silicon and Intel.</p>
     </td>
     <td width="33%">
       <h3>15 Languages</h3>
@@ -70,8 +70,8 @@ paths, outputs, and render decisions on your own machine.
 
 | Platform | Architecture | Package |
 | --- | --- | --- |
-| **macOS** | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.4.1-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.4.1-arm64.dmg) |
-| **macOS** | Intel (x64) | [V-Raykally-1.4.1-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/latest/download/V-Raykally-1.4.1-x64.dmg) |
+| **macOS** | Apple Silicon (M1/M2/M3/M4) | [V-Raykally-1.4.2-arm64.dmg](https://github.com/workallybrasil/V-Raykally/releases/download/V1.4.2/V-Raykally-1.4.2-arm64.dmg) |
+| **macOS** | Intel (x64) | [V-Raykally-1.4.2-x64.dmg](https://github.com/workallybrasil/V-Raykally/releases/download/V1.4.2/V-Raykally-1.4.2-x64.dmg) |
 | **Windows** | x64 | [Microsoft Store](https://apps.microsoft.com/detail/9P6T4BVX32J6) |
 
 > Windows on Arm devices can run the Microsoft Store package through Windows
@@ -79,14 +79,12 @@ paths, outputs, and render decisions on your own machine.
 
 ---
 
-## What's New In 1.4.1
+## What's New In 1.4.2
 
-- **Local AI diagnostics** for render failures, designed for private desktop workflows.
-- **Stronger V-Ray setup** with clearer detection, validation, and path guidance.
-- **Windows Store infrastructure** for a cleaner Microsoft-verified install path.
-- **macOS release polish** for Apple Silicon and Intel DMG distribution.
-- **Queue and status reliability** improvements for smoother day-to-day rendering.
-- **Public documentation refresh** with clearer download, privacy, and license messaging.
+- **macOS 1.4.2 packages** for Apple Silicon and Intel.
+- **Developer ID-signed DMG distribution** for both macOS architectures.
+- **Updated public download links** so macOS users receive the current 1.4.2 build.
+- **Same local-first V-Ray workflow** with scenes, paths, logs, outputs, and render decisions kept on the user's machine.
 
 See the full [CHANGELOG](CHANGELOG.md) for release history.
 

@@ -11,6 +11,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.2] - 2026-06-28
+
+> 🍎 **macOS 1.4.2 Distribution Update**
+
+### Changed
+
+- **macOS Apple Silicon Package** — Updated the public Apple Silicon DMG to V-Raykally 1.4.2.
+- **macOS Intel Package** — Updated the public Intel x64 DMG to V-Raykally 1.4.2.
+- **Download Links** — Updated public release links and documentation for the current macOS packages.
+
+### Verification
+
+- Both DMG files are Developer ID signed.
+- Both embedded `.app` bundles report version 1.4.2.
+- `codesign --deep --strict` passes for both macOS builds.
+
 ## [1.4.1] - 2026-06-09
 
 > 🚀 **Local AI, Store Delivery & Workflow Polish**
